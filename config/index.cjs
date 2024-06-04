@@ -7,12 +7,12 @@
  */
 const USER_CONFIG = {
   //使用push-deer
-  USE_PASSAGE: 'push-deer',
+  //USE_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxbe852a5be7ec1d44',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '0230cf3fef82889df208c0784e7aae8e',
 
 
   PROVINCE: '浙江',
@@ -59,7 +59,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'ogxLf6VUauRkGA9_3p10h7wePedo',
     }
   ],
 
